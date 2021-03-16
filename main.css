@@ -1,0 +1,22 @@
+img{
+    width: 100%;
+    height: auto;
+}
+
+li{
+    list-style-type: none;
+}
+
+.img-hover:hover {
+    -ms-transform: scale(1.05); /* IE 9 */
+    -webkit-transform: scale(1.05); /* Safari 3-8 */
+    transform: scale(1.05); 
+  }
+
+.footer a{
+    width: 50px;
+    height: 25px;
+    text-align: center;
+    list-style-type: inline;
+}
+
